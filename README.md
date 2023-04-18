@@ -8,8 +8,8 @@ Faculty of Computer Science, Technion.
 
 Submitted by:
 
-#	Name	Id	email
-Student 1	Shaked Silverman	
+
+Student 1	Shaked 	
 Student 2	Amit 
 Introduction
 
