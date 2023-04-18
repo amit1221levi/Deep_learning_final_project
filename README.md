@@ -9,8 +9,8 @@ Faculty of Computer Science, Technion.
 Submitted by:
 
 #	Name	Id	email
-Student 1	Shaked Silverman	206232753	shaked.s@campus.technion.ac.il
-Student 2	Amit Levi	207422650	amitlevi@campus.technion.ac.il
+Student 1	Shaked Silverman	
+Student 2	Amit 
 Introduction
 
 In this assignment we'll explore deep reinforcement learning. We'll implement two popular and related methods for directly learning the policy of an agent for playing a simple video game.
